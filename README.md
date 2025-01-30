@@ -1,16 +1,16 @@
-## Hi there 👋
+# Hello, I'm Shane DuPrey 👋
 
-<!--
-**Fepozopo/Fepozopo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to my GitHub profile! I'm an Operations Manager with a passion for programming and learning.
 
-Here are some ideas to get you started:
+## 🌱 Currently Learning
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- "Deeper Learning" on [Boot.dev](https://www.boot.dev)
+
+## 📈 GitHub Stats
+
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=Fepozopo&show_icons=true&theme=radical)
+
+## 📫 How to Reach Me
+
+- **LinkedIn:** [Shane DuPrey](https://www.linkedin.com/in/shane-duprey-52aa64274)
+- **Twitter/X:** [@fepozopo](https://x.com/fepozopo)
