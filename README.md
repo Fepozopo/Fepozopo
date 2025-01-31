@@ -8,5 +8,5 @@ Welcome to my GitHub profile! I'm an Operations Manager with a passion for progr
 
 ## 📫 How to Reach Me
 
-- **LinkedIn:** [Shane DuPrey](https://www.linkedin.com/in/shane-duprey-52aa64274)
+- **LinkedIn:** [Shane DuPrey](https://www.linkedin.com/in/shane-duprey)
 - **Twitter/X:** [@fepozopo](https://x.com/fepozopo)
